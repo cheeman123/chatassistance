@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+ <category>
+        <pattern>^ location ^</pattern>
+        <template>
+            Our library was located at 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur.<br/> 
+            You may also find us on google map from the button below.
+        <button>
+            <text>Click here</text>
+            <url>https://www.google.com/maps/place/Library,+TARUC/@3.2171822,101.7256302,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc3869b40fb3bb:0x69267c00497dfef5!8m2!3d3.2171822!4d101.7278189</url>
+        </button>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ located ^</pattern>
+        <template>
+            Our library was located at 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur.<br/> 
+            You may also find us on google map from the button below.
+        <button>
+            <text>Click here</text>
+            <url>https://www.google.com/maps/place/Library,+TARUC/@3.2171822,101.7256302,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc3869b40fb3bb:0x69267c00497dfef5!8m2!3d3.2171822!4d101.7278189</url>
+        </button>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ locate ^</pattern>
+        <template>
+            Our library was located at 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur.<br/> 
+            You may also find us on google map from the button below.
+        <button>
+            <text>Click here</text>
+            <url>https://www.google.com/maps/place/Library,+TARUC/@3.2171822,101.7256302,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc3869b40fb3bb:0x69267c00497dfef5!8m2!3d3.2171822!4d101.7278189</url>
+        </button>
+        </template>
+    </category>
+    
+         <category>
+        <pattern>^ where ^</pattern>
+        <template>
+             Our library was located at 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur.<br/> 
+            You may also find us on google map from the button below.
+        <button>
+            <text>Click here</text>
+            <url>https://www.google.com/maps/place/Library,+TARUC/@3.2171822,101.7256302,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc3869b40fb3bb:0x69267c00497dfef5!8m2!3d3.2171822!4d101.7278189</url>
+        </button>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ address ^</pattern>
+        <template>
+            Our library was located at 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur.<br/> 
+            You may also find us on google map from the button below.
+        <button>
+            <text>Click here</text>
+            <url>https://www.google.com/maps/place/Library,+TARUC/@3.2171822,101.7256302,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc3869b40fb3bb:0x69267c00497dfef5!8m2!3d3.2171822!4d101.7278189</url>
+        </button>
+        </template>
+    </category>
+</aiml>

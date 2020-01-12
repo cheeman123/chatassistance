@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+    <category>
+        <pattern>my name is *</pattern>
+        <template>It's <set name = "name"><star/></set>! What can I help you?</template>
+    </category>
+    
+        <category>
+        <pattern>I am *</pattern>
+        <template>It's <set name = "name"><star/></set>! What can I help you?</template>
+    </category>
+        
+    <category>
+        <pattern>what is my name ^</pattern>
+        <template>You are <get name = "name"></get>! I'm still remember your name! What can I assist you?</template>
+    </category>
+    
+    
+    <category>
+        <pattern>^ Hi ^</pattern>
+        <template>
+            <random>
+                <li>Hi there ! What is your name?</li>
+                <li>Hi! But first tell me what is your name?</li>
+                <li>Nice to meet you! Who should I call you?</li>
+            </random>
+        </template>
+    </category>
+    
+        <category>
+        <pattern>^ hello ^</pattern>
+        <template>
+            <random>
+                <li>Hi there ! What is your name?</li>
+                <li>Hi! But first tell me what is your name?</li>
+                <li>Nice to meet you! Who should I call you?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ Who are you ^</pattern>
+        <template>I am your library chatbot assistance! </template>
+    </category>
+    
+   
+</aiml>

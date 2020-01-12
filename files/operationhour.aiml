@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+		 <category>
+        <pattern>^ operation hour ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+    	 <category>
+        <pattern>^ operation hours ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ working hour ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+        <category>
+        <pattern>^ working hours ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ opening hours ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ opening ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+        <category>
+        <pattern>^ closing ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ sunday ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ saturday ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ public holiday ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+         <category>
+        <pattern>^ time ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+    
+         <category>
+        <pattern>^ tomorrow ^</pattern>
+        <template>
+            The operation hour will update at the link below.<br/>
+            Click the link below to view our operation time.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/about-us/opening-hours/</url>
+        </button>
+        </template>
+    </category>
+</aiml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern>^ student card ^</pattern>
+    <template>No. Your Student/Staff ID card is also your Library membership card.</template>
+</category>
+
+<category>
+    <pattern>^ id card ^</pattern>
+    <template>No. Your Student/Staff ID card is also your Library membership card.</template>
+</category>
+
+<category>
+    <pattern>^ lost ^</pattern>
+    <template>You must report to the library staff at Information Counter, Level G, Main Library immediately to deactivate your library account.
+    Alternatively, you may deactivate your library account online by logging in to Library InfoWeb. </template>
+</category>
+
+	 <category>
+        <pattern>^ infoweb ^</pattern>
+        <template>
+            You find infoweb under this link below.
+        <button>
+            <text>Click here</text>
+            <url>http://infoweb.tarc.edu.my/search/query;jsessionid=C8FE8AC32613B05064D01B9DF1F614F4?theme=taruc</url>
+        </button>
+        </template>
+    </category>
+
+	 <category>
+        <pattern>^ information ^</pattern>
+        <template>
+            You find all the information under this link below.
+        <button>
+            <text>Click here</text>
+            <url>http://infoweb.tarc.edu.my/search/query;jsessionid=C8FE8AC32613B05064D01B9DF1F614F4?theme=taruc</url>
+        </button>
+        </template>
+    </category>
+    
+    	 <category>
+        <pattern>^ hotline ^</pattern>
+        <template>
+            Our assist hotline was 03-1234567
+        </template>
+    </category>
+    
+        
+    	 <category>
+        <pattern>^ call ^</pattern>
+        <template>
+            Our assist hotline was 03-1234567
+        </template>
+    </category>
+    
+        <category>
+        <pattern>^ contact ^</pattern>
+        <template>
+            Our assist hotline was 03-1234567.<br/>
+            Or email us abc@hotmail.com
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ e-mail ^</pattern>
+        <template>
+            Our email was abc@hotmail.com
+        </template>
+    </category>
+    
+        <category>
+        <pattern>^ email ^</pattern>
+        <template>
+            Our email was abc@hotmail.com
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ support team ^</pattern>
+        <template>
+            Our assist hotline was 03-1234567
+        </template>
+        </category>
+        
+             <category>
+        <pattern>^ phone ^</pattern>
+        <template>
+            Our assist hotline was 03-1234567
+        </template>
+        </category>
+</aiml>
+

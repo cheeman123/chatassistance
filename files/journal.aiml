@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+ <category>
+        <pattern>^ journal ^</pattern>
+        <template>
+            You can find the E-Journal from the link below.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/online-resources/e-journals/</url>
+        </button>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ journals ^</pattern>
+        <template>
+            You can find the E-Journal from the link below.
+        <button>
+            <text>Click here</text>
+            <url>https://www.tarc.edu.my/library/online-resources/e-journals/</url>
+        </button>
+        </template>
+    </category>
+</aiml>

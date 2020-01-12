@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern>^ search book ^</pattern>
+    <template>You can find all your desired book from the shelter at level 2.<br/> All the shelter was labelled according category.</template>
+</category>
+
+<category>
+    <pattern>^ find book ^</pattern>
+    <template>You can find all your desired book from the shelter at level 2.<br/> All the shelter was labelled according category.</template>
+</category>
+</aiml>

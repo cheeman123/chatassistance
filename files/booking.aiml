@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	 <category>
+        <pattern>^ discussion room ^</pattern>
+        <template>
+            For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+        <button>
+            <text>Click here</text>
+            <url>https://localhost:44348/booking.aspx</url>
+        </button>
+        </template>
+    </category>
+    
+    	 <category>
+        <pattern>^ discussion rooms ^</pattern>
+        <template>
+            For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+        <button>
+            <text>Click here</text>
+            <url>https://localhost:44348/booking.aspx</url>
+        </button>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ booking ^</pattern>
+        <template>
+            For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+        <button>
+            <text>Click here</text>
+            <url>https://localhost:44348/booking.aspx</url>
+        </button>
+        </template>
+    </category>
+    
+         <category>
+        <pattern>^ free ^</pattern>
+        <template>
+            For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+            This link is working 24/7.
+            <button>
+            <text>Click here</text>
+            <url>https://localhost:44348/booking.aspx</url>
+        </button>
+        </template>
+    </category>
+    
+             <category>
+        <pattern>^ free ^</pattern>
+        <template>
+            For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+        <button>
+            <text>Click here</text>
+            <url>https://localhost:44348/booking.aspx</url>
+        </button>
+        </template>
+    </category>
+    
+             <category>
+        <pattern>^ empty ^</pattern>
+        <template>
+            For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+            This link is working 24/7.
+        <button>
+            <text>Click here</text>
+            <url>https://localhost:44348/booking.aspx</url>
+        </button>
+        </template>
+    </category>
+    
+             <category>
+        <pattern>^ empty ^</pattern>
+        <template>
+            For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+            This link is working 24/7.
+        <button>
+            <text>Click here</text>
+            <url>https://localhost:44348/booking.aspx</url>
+        </button>
+        </template>
+    </category>
+    
+        <category>
+        <pattern>^ available ^</pattern>
+        <template>
+            For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+            This link is working 24/7.
+        <button>
+            <text>Click here</text>
+            <url>https://localhost:44348/booking.aspx</url>
+        </button>
+        </template>
+    </category>
+    
+        <category>
+        <pattern>^ room ^</pattern>
+        <template>
+            For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+            This link is working 24/7.
+        <button>
+            <text>Click here</text>
+            <url>https://localhost:44348/booking.aspx</url>
+        </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ how long ^</pattern>
+        <template>
+            <random>
+                <li>There was 2 hours of booking allow per booking.</li>
+                <li>There was 2 weeks maximum for borrowing a book.</li>
+            </random>
+            </template>
+    </category>
+    
+        <category>
+        <pattern>^ person ^</pattern>
+        <template>For checking or booking of discussion room, kindly visit back to our homepage or click the link below.
+            This link is working 24/7.</template>
+    </category>
+    
+</aiml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern>^ borrow ^</pattern>
+    <template>Procedure :<br/>
+    1)Proceed to counter with the book you desired.<br/>
+    2)Show your student id to the staff.<br/>
+    3)Collect back your student id and you may leave.<br/>
+    </template>
+</category>
+
+<category>
+    <pattern>^ procedure ^</pattern>
+    <template>Procedure :<br/>
+    1)Proceed to counter with the book you desired.<br/>
+    2)Show your student id to the staff.<br/>
+    3)Collect back your student id and you may leave.<br/>
+    </template>
+</category>
+
+<category>
+    <pattern>^ books ^</pattern>
+    <template>Procedure :<br/>
+    1)Proceed to counter with the book you desired.<br/>
+    2)Show your student id to the staff.<br/>
+    3)Collect back your student id and you may leave.<br/>
+    </template>
+</category>
+
+<category>
+    <pattern>^ late ^</pattern>
+    <template>For late return of book, student will be fined RM 1 per day.</template>
+</category>
+
+<category>
+    <pattern>^ 2 weeks ^</pattern>
+    <template>For late return of book, student will be fined RM 1 per day.</template>
+</category>
+
+<category>
+    <pattern>^ maximum ^</pattern>
+    <template>One student can borrow 2 books maximum.</template>
+</category>
+
+<category>
+    <pattern>^ how many ^</pattern>
+    <template>One student can borrow 2 books maximum.</template>
+</category>
+
+<category>
+    <pattern>^ how much ^</pattern>
+    <template>For late return of book, student will be fined RM 1 per day.</template>
+</category>
+
+<category>
+    <pattern>^ return ^</pattern>
+    <template>Return book at counter. Late returning will be fined RM1 per day.</template>
+</category>
+</aiml>
